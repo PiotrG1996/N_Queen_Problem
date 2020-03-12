@@ -1,4 +1,5 @@
 ###################################################################
+  
 Autor: Piotr Gapski
 
 Wykorzystane technologie:
