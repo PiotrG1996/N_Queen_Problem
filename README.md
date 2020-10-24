@@ -4,6 +4,19 @@
 <div justify style="text-align: justify;  max-width: 500px;">
 
 ###################################################################
+[ENG]
+
+Algorithm overview: https://www.youtube.com/watch?v=0DeznFqrgAI
+
+N Queen Problem has been formulated by Max Bezzel in 1848. The first solution was released and described two years later by Franz Nauck. Mathematician Carl Friedrich Gauss was interested in this topic as well. In 1992, the reletation between "N Queen Problem" and "magic square" was discovered.  
+
+Project description:
+
+Web App includes two different modes: game and simulation. Depending on the choice, player can discover solutions on his own or take advantage of the simulation. 
+All results are presented beneath in a row. User can also change speed of simulation and allow full screen mode.  
+
+
+###################################################################
 [PL]
 
 Autor: Piotr Gapski
