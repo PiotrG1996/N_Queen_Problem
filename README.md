@@ -13,7 +13,7 @@ N Queen Problem has been formulated by Max Bezzel in 1848. The first solution wa
 Project description:
 
 Web App includes two different modes: game and simulation. Depending on the choice, player can discover solutions on his own or take advantage of the simulation. 
-All results are presented beneath in a row. User can also change speed of simulation and allow full screen mode.  
+All results are presented beneath in a row. User can also change speed of the simulation and allow full screen mode.  
 
 
 ###################################################################
