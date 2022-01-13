@@ -6,7 +6,7 @@
 ###################################################################
 [ENG]
 
-Algorithm overview: https://www.youtube.com/watch?v=0DeznFqrgAI
+Algorithm overview: [link](https://www.youtube.com/watch?v=0DeznFqrgAI)
 
 N Queen Problem has been formulated by Max Bezzel in 1848. The first solution was released and described two years later by Franz Nauck. Mathematician Carl Friedrich Gauss was interested in this topic as well. In 1992, the reletation between "N Queen Problem" and "magic square" was discovered.  
 
